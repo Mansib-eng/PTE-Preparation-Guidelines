@@ -1,5 +1,5 @@
 ## Speaking
-There are 7 modules in this section ->
+There are **7 modules** in this section ->
 
 - Read Aloud (RA)
 - Repeat Sentence (RS)
