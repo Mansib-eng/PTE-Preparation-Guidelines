@@ -13,4 +13,4 @@ There are **4 sections** and **22 modules** ->
 **Each section will be 90 marks.**
 **PTE total marks are 90**
 
-All sections detailly explain in specific section folders.
+All sections detailly explain in specific section **README** file.
