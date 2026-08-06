@@ -14,3 +14,8 @@ There are **4 sections** and **22 modules** ->
 **PTE total marks are 90**
 
 All sections detailly explain in specific section **README** file.
+
+For Free Practices (Specific Module Practice, Sectional Practice, or Mock Tests):
+
+- [ALFA PTE](https://alfapte.com/)
+- [Language Academy](https://www.languageacademy.com.au/)
