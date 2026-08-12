@@ -1,64 +1,111 @@
 ## Speaking
-There are **7 modules** in this section ->
 
-- Read Aloud (RA)
-- Repeat Sentence (RS)
-- Describe Image (DI)
-- Retell Lecture (RL)
-- Answer Short Question (ASQ)
-- Summarize Group Discussion (SGD)
-- Respond to a Situation (RTS)
+The Speaking section has **7 modules**:
 
-### Read Aloud (RA)
-- There should be a passage, and you have to read that whole passage.
-- You will be given time for preparation
-- And you have to read the whole passage within the given time
+1. **Read Aloud (RA)**
+2. **Repeat Sentence (RS)**
+3. **Describe Image (DI)**
+4. **Retell Lecture (RL)**
+5. **Answer Short Question (ASQ)**
+6. **Summarize Group Discussion (SGD)**
+7. **Respond to a Situation (RTS)**
 
-**Important facts:** Try to read the whole passage within the given time; try to maintain fluency and content. Don't overthink; just read the whole passage as you read in school time when the teacher asked you to read a passage in front of the class.
+---
 
-### Repeat Sentence(RS)
+### 1. Read Aloud (RA)
 
-- You will hear 3 /4/ 5 seconds of audio
-- Then you have to speak what the audio says
+- You will be given a passage.
+- You will have some time to prepare.
+- You must read the entire passage within the given time.
 
-**Important facts:** Try to speak the whole audio as it is, but if you do not manage it, then try to speak 1st few words the same as it is or the last few words the same as it is. Don't speak anything that is not in the audio.
+**Important tips:**
 
+- Try to complete the passage within the given time.
+- Maintain your fluency and pronounce the words clearly.
+- Do not overthink. Read naturally, as if you were reading a passage aloud in front of your class.
 
-### Describe Image (DI)
-- There can be many types of images such as Bar graph, Pie chart, random image, Table, Line graph, etc.
-- You have to describe the image
-- You have some time for preparation
+---
 
-**Important facts:** Try to pick as many key points of that image as possible
+### 2. Repeat Sentence (RS)
 
-### Retell Lecture (RL)
-- There will be audio for about 1 to 1 and a half minutes
-- You have to speak for around 20 to 30 seconds 
+- You will hear a short audio recording of approximately **3 to 5 seconds**.
+- After the audio ends, repeat exactly what you heard.
 
-**Important facts:** Listen for 3 to 5 seconds, then write for 4 to 5 seconds, then listen again and write. Don't work both listen and write together. 4 or 5 sentences will be enough.
+**Important tips:**
 
-### Answer Short Question (ASQ)
-- There will be audio, and the question will be in the audio
-- You have to answer the question after finishing the audio
+- Try to repeat the complete sentence exactly as it was spoken.
+- If you cannot remember the entire sentence, repeat as many correct words as possible in the right order.
+- Focus especially on remembering the first few and last few words.
+- Do not add words that were not in the audio.
 
-**Important facts:** You can skip this module if you don't know the answer
+---
 
-### Summarize Group Discussion (SGD)
+### 3. Describe Image (DI)
 
-- There will be audio for around 3 minutes or a little more
-- There will  be 2 to 3 speakers
-- You have to speak for around 40 to 60 seconds 
+- You may receive a bar graph, pie chart, line graph, table, map, photograph, or any type of image.
+- You will have some time to prepare.
+- You must describe the image clearly.
 
-**Important facts:** It is the same as the Retell lecture. Listen for 3 to 5 seconds, then write for 4 to 5 seconds, then listen again and write. Don't work on both listen and write together. Because there are 2 or 3 speakers, collect 3 to 4 sentences from each speaker. 10 to 12 sentences will be enough.
+**Important tips:**
 
+- Identify as many important points as possible.
+- Mention the main topic, the most noticeable features, and any relevant comparisons.
 
-### Respond to a Situation (RTS)
-- A situation will be given
-- It will be in 3 parts =>
-	  - The 1st part will be who you actually are in the situation
-	  - The 2nd part will be what happens
-	  - The 3rd part will be what should be done by you
-- You will be given very little time to prepare
+---
 
-**Important facts:** Try to understand the situation as early as possible. And begin with what you are given to do at the end; it will be easy to prepare your answer according to that quickly.
+### 4. Retell Lecture (RL)
 
+- You will hear a lecture lasting approximately **1 to 1.5 minutes**.
+- You will need to speak for approximately **20 to 30 seconds**.
+
+**Important tips:**
+
+- Listen for **3 to 5 seconds**, then quickly write down key words for **4 to 5 seconds**.
+- Continue alternating between listening and taking brief notes.
+- Avoid trying to write continuously while listening.
+- Four or five meaningful sentences should be enough.
+
+---
+
+### 5. Answer Short Question (ASQ)
+
+- You will hear a short question in an audio recording.
+- Answer the question after the audio finishes.
+
+**Important tip:**
+
+- If you do not know the answer, move on without spending too much time worrying about it.
+
+---
+
+### 6. Summarize Group Discussion (SGD)
+
+- You will hear a discussion lasting approximately **3 minutes or slightly longer**.
+- The discussion will usually involve **2 to 3 speakers**.
+- You will need to speak for approximately **40 to 60 seconds**.
+
+**Important tips:**
+
+- Use a note-taking strategy similar to the one used for Retell Lecture.
+- Listen for **3 to 5 seconds**, then quickly write key words for **4 to 5 seconds**.
+- Avoid trying to write continuously while listening.
+- Note the main ideas and viewpoints of each speaker.
+- Try to collect **3 to 4 key points** from each speaker.
+- Around **10 to 12 short points** should provide enough material for your response.
+
+---
+
+### 7. Respond to a Situation (RTS)
+
+- You will be given a situation.
+- The situation usually contains three parts:
+  1. Who you are in the situation
+  2. What has happened
+  3. What you are expected to do
+- You will have very little preparation time.
+
+**Important tips:**
+
+- Understand the situation and your role as quickly as possible.
+- Focus especially on the final instruction, because it tells you what your response must accomplish.
+- Begin with the required action, then prepare the rest of your response around it.
