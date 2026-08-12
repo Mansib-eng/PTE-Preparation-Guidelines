@@ -1,21 +1,25 @@
-# PTE-Preparation-Guidelines
- This is about PTE, which most people are unfamiliar with.
+# PTE Preparation Guidelines
 
-***PTE** = Pearson Test of English*
+This guide is about the **PTE**, an English-language proficiency test that many people may be unfamiliar with.
 
-There are **4 sections** and **22 modules** ->
+**PTE** stands for *Pearson Test of English*.
 
-- **Speaking**
-- **Writing**
-- **Reading**
-- **Listening**
+## Test Sections
 
-**Each section will be 90 marks.**
-**PTE total marks are 90**
+The PTE has **4 sections** and **22 modules**:
 
-All sections detailly explain in specific section **README** file.
+1. **Speaking**
+2. **Writing**
+3. **Reading**
+4. **Listening**
 
-For Free Practices (Specific Module Practice, Sectional Practice, or Mock Tests):
+> **Important:** Each section is scored as part of the overall PTE score. The maximum overall PTE score is **90**.
+
+Each section and its modules are explained in detail in the respective section's **README** file.
+
+## Free Practice Resources
+
+You can use the following websites for specific module practice, sectional practice, and mock tests:
 
 - [ALFA PTE](https://alfapte.com/)
 - [Language Academy](https://www.languageacademy.com.au/)
