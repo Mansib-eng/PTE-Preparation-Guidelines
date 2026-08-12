@@ -15,11 +15,4 @@ The PTE has **4 sections** and **22 modules**:
 
 > **Important:** Each section is scored as part of the overall PTE score. The maximum overall PTE score is **90**.
 
-Each section and its modules are explained in detail in the respective section's **README** file.
-
-## Free Practice Resources
-
-You can use the following websites for specific module practice, sectional practice, and mock tests:
-
-- [ALFA PTE](https://alfapte.com/)
-- [Language Academy](https://www.languageacademy.com.au/)
+Each section and its modules are explained in detail in the respective section's **README** file and also there is a **Resource.md** file where given all websites relevant to **PTE** practice.
